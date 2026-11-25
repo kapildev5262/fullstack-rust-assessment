@@ -70,3 +70,11 @@ AI-generated code may require further review and testing.
 The application is designed for local assessment evaluation
 and is not intended to be deployed directly into production
 without additional security hardening.
+
+## Automated Test Verification
+
+All seven backend integration tests were executed manually
+using cargo test -- --test-threads=2.
+
+Results: 7 passed, 0 failed.
+Execution time: 19.27 seconds.
