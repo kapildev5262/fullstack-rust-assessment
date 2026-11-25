@@ -446,3 +446,17 @@ HTTP status: `200 OK`
 }
 
 ```
+
+## Screenshots
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/01-admin-dashboard.png)
+
+### Staff Dashboard
+
+![Staff Dashboard](screenshots/02-staff-dashboard.png)
+
+### Backend Implementation and Tests
+
+![Backend Tests](screenshots/03-backend-tests.png)
